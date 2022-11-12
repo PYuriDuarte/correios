@@ -61,6 +61,11 @@ body {
   cursor: text;
 }
 
+.cepTop i{
+  font-size: 14px;
+  font-style: normal;
+}
+
 .inputbox input {
   position: absolute;
   background-color: var(--primary-color);
